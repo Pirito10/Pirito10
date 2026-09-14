@@ -25,6 +25,7 @@ Telecommunications Engineering graduate (Telematics specialization) from the Uni
 
 **Backend & Data**
 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)
@@ -48,7 +49,7 @@ Telecommunications Engineering graduate (Telematics specialization) from the Uni
 
 - **[Course Catalogue Search](https://github.com/Pirito10/CourseCatalogueSearch-TFG-UVigo)** (Bachelor's Thesis) — Relevance-ranked search and filtering engine for a university course catalogue on an Erasmus+ platform built on Drupal 10, with typo tolerance and automatic translation.
 - **[GuideGuard](https://github.com/Pirito10/GuideGuard-LPRO-UVigo)** — Distributed BLE-based detection system to prevent museum audioguide theft, with ESP32 nodes, Kalman filtering, and an Android app.
+- **[IPTV Guide](https://github.com/Pirito10/IPTV-Guide)** — Self-hosted web-based electronic program guide (EPG) viewer for IPTV playlists, with a React frontend, a Flask backend, automated tests, and CI/CD.
 - **[Solar Boat](https://github.com/Pirito10/SolarBoat-RSFM-UVigo)** — Remote monitoring system for an autonomous solar boat, comparing six wireless communication technologies (LTE, NB-IoT, LoRaWAN, BLE, WiFi HaLow...).
-- **[Taquilla Virtual](https://github.com/Pirito10/TaquillaVirtual-PCCD-UVigo)** — Distributed ticket-selling system written in C, using token-based mutual exclusion across concurrent nodes.
 
 Check out the rest of my projects in my repositories below 👇
