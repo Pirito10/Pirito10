@@ -5,7 +5,11 @@ Telecommunications Engineering graduate (Telematics specialization) from the Uni
 - 🎓 Recent graduate
 - 🔭 Open to opportunities in software development, embedded systems, or networking
 - 💻 What I enjoy most is programming, though I'm also interested in networking and IoT/embedded systems
-- 📫 Contact: [LinkedIn](https://www.linkedin.com/in/aaronriveiro) · aaronriveiro@gmail.com
+
+### 📫 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaronriveiro)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaronriveiro@gmail.com)
 
 ## 🛠️ Tech Stack
 
